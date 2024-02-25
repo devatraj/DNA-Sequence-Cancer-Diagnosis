@@ -57,16 +57,22 @@ Example:
 Model Training
 
 The model is trained using a Convolutional Neural Network (CNN) named MEDCNN. Three encoding methods (BPF, NCP, DPCP) are used to represent gene sequences as multidimensional feature matrices.
+
 Evaluation
 
 The model's performance is evaluated based on metrics such as accuracy, precision, recall, and F1 score.
+
 Results
 
 Provide insights into the model's predictions and any patterns discovered.
+
 Contributing
 
 Feel free to contribute by submitting issues, proposing new features, or enhancing the existing ones.
+
 License
+
+This project is licensed under the Apache license.
 
 Acknowledgements
 
